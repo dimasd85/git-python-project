@@ -1,0 +1,1 @@
+print("Witak w projekcie Git i Python")
